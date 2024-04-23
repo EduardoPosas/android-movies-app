@@ -22,12 +22,12 @@ Con esta aplicación se puede obtener información acerca de películas por cate
 
 1. Películas populares
 
-<img alt="movies_popular.jpg" src="sampledata%2Fmovies_popular.jpg" width="250"/>
+<img alt="movies_popular.jpg" src="app/sampledata/movies_popular.jpg" width="250"/>
 
 2. Películas proximamente
 
-<img alt="movies_upcoming.jpg" src="sampledata%2Fmovies_upcoming.jpg" width="250"/>
+<img alt="movies_upcoming.jpg" src="app/sampledata/movies_upcoming.jpg" width="250"/>
 
 3. Detalle de película
 
-<img alt="movies_details.jpg" src="sampledata%2Fmovies_details.jpg" width="250"/>
+<img alt="movies_details.jpg" src="app/sampledata/movies_details.jpg" width="250"/>
