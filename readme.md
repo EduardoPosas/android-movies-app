@@ -1,17 +1,14 @@
 # Movies App
----
 
 Movies App es una aplicación dinámica desarrollada con tecnología de Android moderna, incluyendo Jetpack Compose y Kotlin.
 El projecto sigue los principios de código limpio, esta construida con siguiendo el patrón de diseño MVVM. Adicionalmente, 
 se implementa Dagger-Hilt para la inyección de dependencias.
 
 ## Acerca de
----
 
 Con esta aplicación se puede obtener información acerca de películas por categoría y ver una lista con todos sus detalles.
 
 ## Características clave
----
 
 * Interfaz moderna implementada con Jetpack Compose
 * Uso de Corutinas y Flujos de Kotlin 
@@ -22,7 +19,6 @@ Con esta aplicación se puede obtener información acerca de películas por cate
 * Tiene capacidad de trabajar de manera offline gracias a Room
 
 ## Galería
----
 
 1. Películas populares
 
